@@ -1,2 +1,2 @@
 # c
-Exercícios em C de Introdução a Programação
+Exercícios em C da disciplina Introdução a Programação
